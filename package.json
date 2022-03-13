@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Obtains an arbitrary string from microCMS or other HTML content that can be used as an opening sentence",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"TODO\"",
     "build": "tsc",
