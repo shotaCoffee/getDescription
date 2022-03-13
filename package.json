@@ -1,0 +1,11 @@
+{
+  "name": "get-description",
+  "version": "1.0.0",
+  "description": "Obtains an arbitrary string from microCMS or other HTML content that can be used as an opening sentence",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"TODO\""
+  },
+  "author": "shotaCoffee",
+  "license": "MIT"
+}
