@@ -2,8 +2,8 @@
   "name": "get-description",
   "version": "1.0.2",
   "description": "Obtains an arbitrary string from microCMS or other HTML content that can be used as an opening sentence",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"TODO\"",
     "build": "tsc",
@@ -25,7 +25,7 @@
     "url": "https://github.com/shotaCoffee/getDescription/issues"
   },
   "files": [
-    "./index.ts"
+    "src/getDescription.ts"
   ],
   "devDependencies": {
     "typescript": "^4.6.2"
